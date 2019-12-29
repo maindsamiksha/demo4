@@ -18,6 +18,9 @@
 <tr>
 <td>
 <input type="submit" value="login">
+    
+<input type="submit" value="login">
+    
 </td>
 </tr>
 </table>
